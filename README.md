@@ -21,7 +21,9 @@ Develop and optimize bioinformatics workflows for efficient data processing.
 Collaborate with multidisciplinary teams to translate complex data into actionable insights.
 
 ## Connect with Me:
-## Connect with me
+<a href="https://www.linkedin.com/in/shoaib-khan-imt" target="_blank">
+    <img src="https://example.com/linkedin-logo.png" alt="LinkedIn" style="width:30px;"/>
+</a>
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/shoaib-khan-imt)
+#[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/shoaib-khan-imt)
 
