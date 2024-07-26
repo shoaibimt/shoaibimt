@@ -38,25 +38,25 @@ Collaborate with multidisciplinary teams to translate complex data into actionab
         <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
     </a>
     <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
+        <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Matplotlib" width="80" height="40"/>
     </a>
     <a href="https://seaborn.pydata.org/" target="_blank">
-        <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+        <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="60" height="40"/>
     </a>
     <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="40" height="40"/>
+        <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="60" height="40"/>
     </a>
     <a href="https://numpy.org/" target="_blank">
-        <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/>
+        <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="60" height="40"/>
     </a>
     <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" height="40"/>
+        <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="80" height="40"/>
     </a>
     <a href="https://www.tensorflow.org/" target="_blank">
-        <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="40" height="40"/>
+        <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="60" height="40"/>
     </a>
     <a href="https://keras.io/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="60" height="40"/>
     </a>
 </p>
 
