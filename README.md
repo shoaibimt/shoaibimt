@@ -25,5 +25,5 @@ Collaborate with multidisciplinary teams to translate complex data into actionab
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" style="width:30px;"/>
 </a>
 
-#[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/shoaib-khan-imt)
+
 
