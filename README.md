@@ -19,3 +19,9 @@ With a deep passion for Bioinformatics and a keen expertise in Machine Learning 
 Harness the power of ML/ DL to uncover hidden patterns in biological data.
 Develop and optimize bioinformatics workflows for efficient data processing.
 Collaborate with multidisciplinary teams to translate complex data into actionable insights.
+
+## Connect with Me:
+## Connect with me
+
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/shoaib-khan-imt)
+
