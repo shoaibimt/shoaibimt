@@ -30,10 +30,9 @@ Collaborate with multidisciplinary teams to translate complex data into actionab
 
 <p align="left">
     <a href="https://www.python.org" target="_blank">
-        <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="40" height="40"/>
+        <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="80" height="40"/>
     </a>
-  
-    <a href="https://www.r-project.org" target="_blank">
+   <a href="https://www.r-project.org" target="_blank">
         <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
     </a>
 </p>
