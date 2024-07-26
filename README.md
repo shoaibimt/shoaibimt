@@ -43,7 +43,7 @@ Collaborate with multidisciplinary teams to translate complex data into actionab
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="60" height="40"/>
     </a>
     <a href="https://seaborn.pydata.org/" target="_blank">
-        <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="60" height="40"/>
+        <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="60" height="60"/>
     </a>
     <a href="https://pandas.pydata.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="60" height="40"/>
@@ -55,7 +55,7 @@ Collaborate with multidisciplinary teams to translate complex data into actionab
         <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="60" height="40"/>
     </a>
     <a href="https://www.tensorflow.org/" target="_blank">
-        <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="60" height="40"/>
+        <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="60" height="60"/>
     </a>
     <a href="https://keras.io/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="60" height="40"/>
