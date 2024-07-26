@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mohd. Shoaib Khan
+##  👋 Hi there. I'm Mohd. Shoaib Khan
 
 ## 🚀 Bioinformatics Professional | PhD
 
