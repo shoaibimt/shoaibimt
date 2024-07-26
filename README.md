@@ -22,7 +22,7 @@ Collaborate with multidisciplinary teams to translate complex data into actionab
 
 ## Connect with Me:
 <a href="https://www.linkedin.com/in/shoaib-khan-imt" target="_blank">
-    <img src="https://example.com/linkedin-logo.png" alt="LinkedIn" style="width:30px;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" style="width:30px;"/>
 </a>
 
 #[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/shoaib-khan-imt)
