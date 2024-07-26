@@ -28,9 +28,6 @@ Collaborate with multidisciplinary teams to translate complex data into actionab
 
 ## Programming Languages and Tools:
 
-## Languages and Tools
-
-## Languages and Tools
 
 <p align="left">
     <a href="https://www.python.org" target="_blank">
