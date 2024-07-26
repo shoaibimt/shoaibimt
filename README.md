@@ -26,4 +26,13 @@ Collaborate with multidisciplinary teams to translate complex data into actionab
 </a>
 
 
+## Programming Languages and Tools:
 
+<p align="left">
+    <a href="https://www.python.org" target="_blank">
+        <img src="https://en.m.wikipedia.org/wiki/File:Python-logo-notext.svg" alt="Python" width="40" height="40"/>
+    </a>
+    <a href="https://www.r-project.org" target="_blank">
+        <img src="https://en.wikipedia.org/wiki/R_%28programming_language%29#/media/File:R_logo.svg" alt="R" width="40" height="40"/>
+    </a>
+</p>
